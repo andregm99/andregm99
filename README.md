@@ -3,8 +3,11 @@
 #👨‍💻 Sobre mim
 <br>
 • 🖥️ Curso ténico de manutenção e suporte em informática - Grau técnico.
+<br>
 • 🎓 Graduado em análise e desenvolvimento de sistemas - Estácio.
+<br>
 • ☕ Atuando como desenvolvedor web e mobile.
+<br>
 • 👨‍💻 Desenvolvimento web | mobile.
 
 #☕Minhas habilidades
