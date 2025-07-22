@@ -9,7 +9,7 @@
 • ☕ Atuando como desenvolvedor web e mobile.
 <br>
 • 👨‍💻 Desenvolvimento web | mobile.
-
+<br>
 #☕Minhas habilidades
 <br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
