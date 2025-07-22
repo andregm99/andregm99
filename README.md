@@ -1,6 +1,6 @@
 # Sou desenvolvedor front-end.
 
-#👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 <br>
 • 🖥️ Curso ténico de manutenção e suporte em informática - Grau técnico.
 <br>
