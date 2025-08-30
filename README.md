@@ -1,11 +1,10 @@
-# 👨‍💻 Sou desenvolvedor front-end
+# Bem vindo(a)
 
 ## 🚀 Sobre mim
 
 • 🖥️ Curso técnico de manutenção e suporte em informática - Grau Técnico  
-• 🎓 Graduado em Análise e Desenvolvimento de Sistemas - Estácio  
-• ☕ Atuando como desenvolvedor web e mobile  
-• 👨‍💻 Foco em desenvolvimento web e mobile  
+• 🎓 Graduado em Análise e Desenvolvimento de Sistemas - Estácio   
+• 👨‍💻 Foco em desenvolvimento web e mobile. 
 
 ---
 
